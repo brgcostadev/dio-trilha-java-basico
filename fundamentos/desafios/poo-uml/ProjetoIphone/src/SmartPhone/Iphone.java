@@ -1,6 +1,8 @@
-import AparelhoTelefonico.AparelhoTelefonico;
+package SmartPhone;
+
 import NavegadorInternet.NavegadorInternet;
 import ReprodutorMusical.ReprodutorMusical;
+import AparelhoTelefonico.AparelhoTelefonico;
 
 public class Iphone implements AparelhoTelefonico, NavegadorInternet, ReprodutorMusical {
 
